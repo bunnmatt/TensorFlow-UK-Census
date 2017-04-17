@@ -1,0 +1,7 @@
+rft-teaching-file/
+lib/
+include/
+bin/
+.DS_Store
+.Python
+pip-selfcheck.json
